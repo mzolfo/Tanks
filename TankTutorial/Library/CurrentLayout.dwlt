@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: 8
+    y: 51
     width: 1536
     height: 783
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -38,7 +38,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 300
-    width: 234
+    width: 311
     height: 433
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
@@ -65,12 +65,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 536
     y: 0
-    width: 234
+    width: 311
     height: 733
-  m_MinSize: {x: 234, y: 471}
-  m_MaxSize: {x: 10004, y: 14021}
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 115
+  controlID: 86
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 733
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 114
+  controlID: 26
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 32
+  controlID: 27
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -200,10 +200,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 234
+    width: 311
     height: 300
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -223,9 +223,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 770
+    x: 847
     y: 0
-    width: 766
+    width: 689
     height: 733
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 536
     height: 376
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -315,7 +315,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MixersTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12d5fcff
+    m_SelectedIDs: 
     m_LastClickedID: -207598
     m_ExpandedIDs: 12eb343c
     m_RenameOverlay:
@@ -454,16 +454,16 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 538
-    y: 92
-    width: 230
+    x: 546
+    y: 100
+    width: 307
     height: 279
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 32cdfcff
+    m_SelectedIDs: 8a390000
     m_LastClickedID: 0
-    m_ExpandedIDs: ac3cfeff26c9ffff32c9ffff3ec9ffff9ef6ffff8efbffff9cfbffff9efbffff00000000
+    m_ExpandedIDs: a2ceffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,12 +508,12 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 772
-    y: 92
-    width: 764
+    x: 857
+    y: 100
+    width: 687
     height: 712
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 916.9551}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 152
@@ -542,9 +542,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 538
-    y: 392
-    width: 230
+    x: 546
+    y: 400
+    width: 307
     height: 412
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -559,19 +559,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/AudioMixers
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/AudioMixers
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Matthew\Desktop\Tanks project\Tanks\TankTutorial
+  m_LastProjectPath: C:\workspace\mzUnity\Tanks\TankTutorial
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70350000
-    m_LastClickedID: 13680
-    m_ExpandedIDs: 000000004e28000000ca9a3bffffff7f
+    m_SelectedIDs: 983e0000
+    m_LastClickedID: 16024
+    m_ExpandedIDs: 00000000e63d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,7 +599,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e2800001a2b0000
+    m_ExpandedIDs: 00000000e63d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -630,15 +630,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c42a000012d5fcff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Tank
-      m_OriginalName: Tank
+      m_Name: Prefabs
+      m_OriginalName: Prefabs
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11038
+      m_UserData: 16024
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -676,8 +676,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 468
+    x: 8
+    y: 476
     width: 534
     height: 336
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -753,8 +753,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 92
+    x: 8
+    y: 100
     width: 534
     height: 355
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -792,7 +792,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.33753014, y: 0.0887712, z: -0.031992074, w: 0.9365734}
     speed: 2
-    m_Value: {x: 0.33753014, y: 0.0887712, z: -0.031992074, w: 0.9365734}
+    m_Value: {x: -0.33753014, y: -0.0887712, z: 0.031992074, w: -0.9365734}
   m_Size:
     m_Target: 34.16533
     speed: 2
